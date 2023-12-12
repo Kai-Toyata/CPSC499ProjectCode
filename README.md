@@ -16,8 +16,8 @@ Before you begin, ensure you have the following installed:
 
 **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/TeejLab.git
-   cd TeejLab
+   git clone https://github.com/Kai-Toyata/CPSC499ProjectCode.git
+   cd CPSC499ProjectCode
    ```
 
 ## Running the Project
@@ -49,4 +49,4 @@ dotnet run
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNUv3 License](LICENSE).
